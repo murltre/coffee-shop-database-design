@@ -32,6 +32,7 @@ make defined subsets available to people outside the company.
 ## Design
 
 ### Entities identified
+<img width="994" height="641" alt="Image1_ERD" src="https://github.com/user-attachments/assets/a1f12d0c-ad53-44c0-87a9-ae19aed07360" />
 
 Five entities came directly from the source data: `staff`, `sales_outlet`,
 `sales_transaction`, `customer`, and `product`.
